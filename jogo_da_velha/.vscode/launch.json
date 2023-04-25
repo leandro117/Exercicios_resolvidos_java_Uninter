@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste2",
+            "request": "launch",
+            "mainClass": "teste.Teste2",
+            "projectName": "jogo_da_velha_a5ce3f31"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LerDadosPessoa",
+            "request": "launch",
+            "mainClass": "LerDadosPessoa",
+            "projectName": "jogo_da_velha_a5ce3f31"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "jogo_da_velha_a5ce3f31"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JogoDaVelha",
+            "request": "launch",
+            "mainClass": "JogoDaVelha",
+            "projectName": "jogo_da_velha_a5ce3f31"
+        }
+    ]
+}
